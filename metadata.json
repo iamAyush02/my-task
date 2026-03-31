@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist Task Manager",
+  "description": "A clean and efficient task management application with local storage persistence, filtering, and task editing.",
+  "requestFramePermissions": []
+}
